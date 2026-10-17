@@ -13,19 +13,19 @@ st.set_page_config(
 
 # Danh sách menu & giá (VND)
 MENU_TEA = {
-    "Trà Sữa Truyền Thống": 30000,
-    "Trà Sữa Trân Châu Đường Đen": 35000,
-    "Trà Sữa Thái Xanh": 32000,
+    "Trà Sữa Truyền Thống": 20000,
+    "Trà Sữa Trân Châu Đường Đen": 25000,
+    "Trà Sữa Thái Xanh": 30000,
     "Trà Sữa Ô Long": 35000,
     "Trà Sữa Matcha": 38000,
-    "Trà Sữa Dâu Tây": 35000,
-    "Trà Đào Cam Sả": 35000,
-    "Trà Dâu Tằm": 32000,
+    "Trà Sữa Dâu Tây": 25000,
+    "Trà Đào Cam Sả": 25000,
+    "Trà Dâu Tằm": 30000,
 }
 
 SIZE_OPTIONS = {
-    "S (Vừa)": 0,
-    "M (Lớn)": 5000,
+    "S (Nhỏ)": 0,
+    "M (Vừa)": 5000,
     "L (Đặc biệt)": 10000
 }
 
